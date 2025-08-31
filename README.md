@@ -1,5 +1,9 @@
 # realty-filters
 
+## Online Demo
+
+Project was deployed on Vercel: **https://realty-filters.vercel.app/**
+
 ## Project setup
 ```
 npm install
