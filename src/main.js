@@ -1,4 +1,16 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import components from '@/components/UI';
+import router from './components/router/router';
 
-createApp(App).mount('#app')
+import '@/assets/reset.css';
+
+const app = createApp(App)
+
+components.forEach(component => {
+    app.component(component.name, component)
+})
+
+app
+    .use(router)
+    .mount('#app')

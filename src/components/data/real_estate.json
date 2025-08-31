@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "area": 54.6,
+        "rooms": 2,
+        "address": "г. Астана, ул. Абая 125",
+        "image": "object1.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 2,
+        "area": 78.3,
+        "rooms": 3,
+        "address": "г. Астана, пр. Туран 45",
+        "image": "object2.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 3,
+        "area": 35.0,
+        "rooms": 1,
+        "address": "г. Астана, бульвар Нуржол, 12",
+        "image": "object3.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 4,
+        "area": 102.4,
+        "rooms": 4,
+        "address": "г. Астана, Демалыс Променад (ул. Мамбетова) 15",
+        "image": "object4.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 5,
+        "area": 65.7,
+        "rooms": 2,
+        "address": "г. Астана, ул. Абая 98",
+        "image": "object5.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 6,
+        "area": 48.2,
+        "rooms": 1,
+        "address": "г. Астана, ул. Оралхан Бөкей, 20",
+        "image": "object6.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 7,
+        "area": 95.5,
+        "rooms": 3,
+        "address": "г. Астана, ул. Сырбай Мәуленов, 8",
+        "image": "object7.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 8,
+        "area": 120.0,
+        "rooms": 4,
+        "address": "г. Астана, ул. Ақтекше, 14",
+        "image": "object8.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 9,
+        "area": 60.3,
+        "rooms": 2,
+        "address": "г. Астана, ул. Бұйрат, 5",
+        "image": "object9.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 10,
+        "area": 72.1,
+        "rooms": 2,
+        "address": "г. Астана, ул. Тасөткел, 23",
+        "image": "object10.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 11,
+        "area": 55.0,
+        "rooms": 2,
+        "address": "г. Астана, пр. Республика, 101",
+        "image": "object11.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 12,
+        "area": 85.2,
+        "rooms": 3,
+        "address": "г. Астана, пр. Республика, 202",
+        "image": "object12.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 13,
+        "area": 40.7,
+        "rooms": 1,
+        "address": "г. Астана, ул. Кунаева, 56",
+        "image": "object13.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 14,
+        "area": 68.5,
+        "rooms": 2,
+        "address": "г. Астана, ул. Кунаева, 78",
+        "image": "object14.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 15,
+        "area": 110.0,
+        "rooms": 4,
+        "address": "г. Астана, пр. Mangilik El, 10",
+        "image": "object15.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 16,
+        "area": 52.4,
+        "rooms": 2,
+        "address": "г. Астана, ул. Otyrar, 12",
+        "image": "object16.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 17,
+        "area": 90.7,
+        "rooms": 3,
+        "address": "г. Астана, ул. Kenesary, 30",
+        "image": "object17.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 18,
+        "area": 72.3,
+        "rooms": 2,
+        "address": "г. Астана, ул. Turan, 57",
+        "image": "object18.webp",
+        "type": "Аренда"
+    },
+    {
+        "id": 19,
+        "area": 63.8,
+        "rooms": 2,
+        "address": "г. Астана, ул. Dostyk, 22",
+        "image": "object19.webp",
+        "type": "Продажа"
+    },
+    {
+        "id": 21,
+        "area": 58.9,
+        "rooms": 2,
+        "address": "г. Астана, ул. Saryarka, 60",
+        "image": "object20.webp",
+        "type": "Аренда"
+    }
+]
